@@ -1,5 +1,5 @@
 
-# 🚀 Murphy Microsoft Account Checker v2.0
+# 🚀 Murphy Microsoft Account Checker v1.0
 
 **Advanced Microsoft / Hotmail / Outlook account checker with two powerful scanning modes.**  
 Extracts account validity, profile information (name, country), and searches inbox for specific keywords.  
